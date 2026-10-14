@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+source/*.xlsx
+results/
+previews/
+.DS_Store
